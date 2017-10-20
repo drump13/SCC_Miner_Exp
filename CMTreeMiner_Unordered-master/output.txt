@@ -1,0 +1,31 @@
+#Output Statistics for example_rooted.txt
+#with support 2
+
+using closed-pruning: 
+****************checked:****************
+checked 1 trees: 9
+checked 2 trees: 16
+checked 3 trees: 5
+checked 4 trees: 4
+checked 5 trees: 8
+checked 6 trees: 7
+checked 7 trees: 5
+checked 8 trees: 3
+checked 9 trees: 4
+checked 10 trees: 2
+
+total checked trees: 63
+
+****************closed:****************
+closed 1 trees: 3
+closed 10 trees: 2
+
+total closed trees: 5
+
+****************maximal:****************
+maximal 10 trees: 2
+
+total maximal trees: 2
+
+time spent for closed-pruning extension: 0
+
